@@ -1,3 +1,11 @@
+⤳ Hi, I’m Ala Hassine
+
+⤳ I’m Interested In Embedded Systems ( Embedded C, C++, Embedded Linux, MCU, PCB Designer, ...)
+
+⤳ Watch me reading my Videos in my youtube channel: [Embedded System](https://www.youtube.com/@EmbeddedSystem)
+
+---
+
 ###  🌐 SOCIAL MEDIA 🌐
 <p align="center">
   <a href="https://www.youtube.com/@EmbeddedSystem" target="_blank">
