@@ -63,6 +63,7 @@
 ![Ethernet](https://img.shields.io/badge/Ethernet-%230078D6?style=for-the-badge&logo=ethernet&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-%230080F0?style=for-the-badge&logo=semtech&logoColor=white)
 </div>
+
 ---
 
 ### 🎮 MCU/MPU 🎮
