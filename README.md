@@ -2,7 +2,7 @@
 
 ⤳ I’m Interested In Embedded Systems ( Embedded C, C++, Embedded Linux, MCU, PCB Designer, ...)
 
-⤳ Watch me reading my Videos in my youtube channel: [Embedded System](https://www.youtube.com/@EmbeddedSystem)
+⤳ Watch Me Reading My Videos In My Youtube Channel : [Embedded System](https://www.youtube.com/@EmbeddedSystem)
 
 ---
 
@@ -31,6 +31,23 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)
+
+</div>
+
+---
+
+### 🎮 MCU/MPU 🎮
+<div align="center">
+
+![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-%230058D1?style=for-the-badge&logo=microchip&logoColor=white) 
+![AVR](https://img.shields.io/badge/AVR-%23E46C23?style=for-the-badge&logo=atmel&logoColor=white)
+![NVIDIA Jetson Nano](https://img.shields.io/badge/NVIDIA-Jetson_Nano-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Tiva C](https://img.shields.io/badge/TI-Tiva_C-%23A50034?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-%2376509B?style=for-the-badge&logo=chip&logoColor=white) 
+![NRF](https://img.shields.io/badge/Nordic-nRF-%2300A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
 
 </div>
 
