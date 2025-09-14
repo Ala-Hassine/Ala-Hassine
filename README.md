@@ -1,8 +1,8 @@
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7efaa0c4-4f17-449b-8bc0-1dce76651898" /> ⤳ Hi, I’m Ala Hassine
 
-⤳ I’m Interested In Embedded Systems ( Embedded C, C++, Embedded Linux, MCU, PCB Designer, ...)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7efaa0c4-4f17-449b-8bc0-1dce76651898" /> ⤳ I’m Interested In Embedded Systems ( Embedded C, C++, Embedded Linux, MCU, PCB Designer, ...)
 
-⤳ Watch Me Reading My Videos In My Youtube Channel : [Embedded System](https://www.youtube.com/@EmbeddedSystem)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7efaa0c4-4f17-449b-8bc0-1dce76651898" /> ⤳ Watch Me Reading My Videos In My Youtube Channel : [Embedded System](https://www.youtube.com/@EmbeddedSystem)
 
 ---
 
