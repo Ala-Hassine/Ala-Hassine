@@ -1,4 +1,4 @@
-⤳ Hi, I’m Ala Hassine
+<img width="39" height="39" alt="image" src="https://github.com/user-attachments/assets/7efaa0c4-4f17-449b-8bc0-1dce76651898" />⤳ Hi, I’m Ala Hassine
 
 ⤳ I’m Interested In Embedded Systems ( Embedded C, C++, Embedded Linux, MCU, PCB Designer, ...)
 
@@ -41,6 +41,28 @@
 
 </div>
 
+---
+
+### 📊 COMMUNICATION PROTOCOLS 📊
+<div align="center">
+  
+![I2C](https://img.shields.io/badge/I2C-%23000000?style=for-the-badge&logo=signal&logoColor=white) 
+![SPI](https://img.shields.io/badge/SPI-%23000000?style=for-the-badge&logo=arrow-right&logoColor=white)
+![RS485](https://img.shields.io/badge/RS--485-%23007396?style=for-the-badge&logo=server&logoColor=white) 
+![RS232](	https://img.shields.io/badge/RS--232-%23007396?style=for-the-badge&logo=serial-port&logoColor=white)
+![UART](https://img.shields.io/badge/UART-%23007396?style=for-the-badge&logo=arrow-right&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN_Bus-%23E70C0C?style=for-the-badge&logo=car&logoColor=white)
+![LIN](https://img.shields.io/badge/LIN_Bus-%230099FF?style=for-the-badge&logo=car&logoColor=white)
+![USB](https://img.shields.io/badge/USB-%23000000?style=for-the-badge&logo=usb&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-%230082D1?style=for-the-badge&logo=bluetooth&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-%23F29111?style=for-the-badge&logo=internet-explorer&logoColor=white) 
+![MQTT](https://img.shields.io/badge/MQTT-%23660000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![RF](https://img.shields.io/badge/RF-%23E65300?style=for-the-badge&logo=broadcom&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-%230078D6?style=for-the-badge&logo=wifi&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-%23FF5C01?style=for-the-badge&logo=http&logoColor=white)
+![Ethernet](https://img.shields.io/badge/Ethernet-%230078D6?style=for-the-badge&logo=ethernet&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-%230080F0?style=for-the-badge&logo=semtech&logoColor=white)
+</div>
 ---
 
 ### 🎮 MCU/MPU 🎮
