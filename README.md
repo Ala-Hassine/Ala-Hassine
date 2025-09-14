@@ -58,3 +58,24 @@
 </div>
 
 ---
+
+### 🛠️ DEVELOPMENT TOOLS 🛠️
+<div align="center">
+
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%23217576?style=for-the-badge&logo=stm32&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-%23217576?style=for-the-badge&logo=stm32&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979C?style=for-the-badge&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2337C211?style=for-the-badge&logo=qt&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-%230074A4?style=for-the-badge&logo=arm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%23000000?style=for-the-badge&logo=eclipse&logoColor=white) 
+![Proteus](https://img.shields.io/badge/Proteus-%2300A9E0?style=for-the-badge&logo=autodesk&logoColor=white) 
+![NetBeans](https://img.shields.io/badge/NetBeans-%23000000?style=for-the-badge&logo=netbeans&logoColor=white)
+
+</div>
+
+---
