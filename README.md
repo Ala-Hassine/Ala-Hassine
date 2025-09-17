@@ -83,6 +83,21 @@
 
 ---
 
+### ☁️ OPERATING SYSTEM ☁️
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%2300A0E0?style=for-the-badge&logo=freertos&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-%2300A0E0?style=for-the-badge&logo=zephyr&logoColor=white)
+![Yocto Project](https://img.shields.io/badge/Yocto_Project-%23A1A1A1?style=for-the-badge&logo=yocto&logoColor=white)
+![Buildroot](https://img.shields.io/badge/Buildroot-%23C9004F?style=for-the-badge&logo=buildroot&logoColor=white)
+
+</div>
+
+---
+
 ### 🛠️ DEVELOPMENT TOOLS 🛠️
 <div align="center">
 
