@@ -83,7 +83,7 @@
 
 ---
 
-### 🌿 OPERATING SYSTEM 🌿
+### 🦅 OPERATING SYSTEM 🦅
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -125,14 +125,27 @@
 
 ---
 
-### 🦅 CAD DESIGN 🦅
+### 🔌 CAD DESIGN 🔌
 <div align="center">
   
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-%23A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) 
-![KiCad EDA](	https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![KiCad EDA](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Proteus Professional](https://img.shields.io/badge/Proteus_Professional-%23007AAA?style=for-the-badge&logo=proteus&logoColor=white) 
 ![Eagle](https://img.shields.io/badge/Autodesk_Eagle-%23A91D20?style=for-the-badge&logo=autodesk&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-%23000000?style=for-the-badge&logo=linear&logoColor=white)
+
+</div>
+
+---
+
+### 🌿 Version Management 🌿
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-%23FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
