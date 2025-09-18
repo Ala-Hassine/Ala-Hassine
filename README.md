@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 COMMUNICATION PROTOCOLS 📊
+### 📡 COMMUNICATION PROTOCOLS 📡
 <div align="center">
   
 ![I2C](https://img.shields.io/badge/I2C-%23000000?style=for-the-badge&logo=signal&logoColor=white) 
@@ -66,7 +66,7 @@
 
 ---
 
-### 🎮 MCU/MPU 🎮
+### 🧠 MCU/MPU 🧠
 <div align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
@@ -83,7 +83,7 @@
 
 ---
 
-### ☁️ OPERATING SYSTEM ☁️
+### 🌿 OPERATING SYSTEM 🌿
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
