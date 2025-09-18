@@ -124,3 +124,16 @@
 </div>
 
 ---
+
+### 🦅 CAD DESIGN 🦅
+<div align="center">
+  
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-%23A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) 
+![KiCad EDA](	https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus Professional](https://img.shields.io/badge/Proteus_Professional-%23007AAA?style=for-the-badge&logo=proteus&logoColor=white) 
+![Eagle](https://img.shields.io/badge/Autodesk_Eagle-%23A91D20?style=for-the-badge&logo=autodesk&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-%23000000?style=for-the-badge&logo=linear&logoColor=white)
+
+</div>
+
+---
