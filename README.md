@@ -38,6 +38,7 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </div>
 
